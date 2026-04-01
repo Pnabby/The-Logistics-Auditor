@@ -8,7 +8,7 @@ This project analyzes Veridi Logistics’ delivery performance by linking shippi
 
 - **Link to Notebook:** https://github.com/Pnabby/The-Logistics-Auditor/blob/main/logistics_auditor.ipynb
 - **Link to Dashboard:** https://lookerstudio.google.com/s/ulcz-BW8jHc
-- **Link to Presentation:** https://
+- **Link to Presentation:** https://docs.google.com/presentation/d/16QIoFELc5xI6m1fTeHrYHZAAHFcijYrQlHVNkK6QFVA/edit?usp=sharing
 
 ## C. Technical Explanation
 
